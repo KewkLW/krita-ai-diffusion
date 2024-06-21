@@ -1,0 +1,20 @@
+{
+    "name": "artstyle-constructivist",
+    "version": 1,
+    "sd_version": "auto",
+    "sd_checkpoint": "XL\\juggernautXL_juggernautX.safetensors",
+    "loras": [],
+    "style_prompt": "constructivist style {prompt} . geometric shapes, bold colors, dynamic composition, propaganda art style",
+    "negative_prompt": "realistic, photorealistic, low contrast, plain, simple, abstract expressionism",
+    "vae": "Checkpoint Default",
+    "clip_skip": 2,
+    "v_prediction_zsnr": false,
+    "self_attention_guidance": true,
+    "preferred_resolution": 0,
+    "sampler": "Alternative - Euler A",
+    "sampler_steps": 20,
+    "cfg_scale": 6.0,
+    "live_sampler": "Alternative - Euler A",
+    "live_sampler_steps": 20,
+    "live_cfg_scale": 6.0
+}
